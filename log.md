@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
 2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
+
+### Day 2: January 4, Wednesday
+
+**Today's Progress**: I designed the web pages for a basic movie store app.
+
+**Thoughts** I'll be mostly working with database, so am learning how to use Firebase for real-time access.
+
+**Link(s) to work**
+1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
+2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
+
