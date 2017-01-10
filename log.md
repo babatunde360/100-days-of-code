@@ -29,3 +29,12 @@
 **Link(s) to work**
 1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
 2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
+
+### Day 4: January 6, Friday
+
+**Today's Progress**: I watched Pluralsight's video tutorial on Firebase basics.
+**Thoughts** Its not as easy as I thought, didn't do much today though but made a significant progress on learning Firebase.
+
+**Link(s) to work**
+1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
+2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
