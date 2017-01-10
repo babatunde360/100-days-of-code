@@ -38,3 +38,11 @@
 **Link(s) to work**
 1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
 2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
+
+### Day 5: January 9, Monday
+
+**Today's Progress**: I missed out the last weekend but found an open-source e-commerce site, which is helpful.
+**Thoughts** The open-source is helpful because it helps to explain more complex features of an online store.
+**Link(s) to work**
+1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
+2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
