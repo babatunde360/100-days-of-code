@@ -20,3 +20,12 @@
 1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
 2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
 
+### Day 3: January 5, Thursday
+
+**Today's Progress**: I still have a long way to go. Internet isn't on my side, inadequate access so far...
+
+**Thoughts** I was slowed down due to inadequate internet access which is vital.
+
+**Link(s) to work**
+1. [Movie Store App repo](https://github.com/mehrceey04/100DaysOfCode-Movie-Store-App)
+2. [Follow my progress on twitter](https://www.twitter.com/mehrceey04)
